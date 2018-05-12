@@ -1,0 +1,32 @@
+_repo: Voyage---Cayenne-dans-les-deux-Am-riques-et-chez-les-anthropophages--Vol.-2-de-2-_41124
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pitou, Louis Ange
+    birthdate: 1767
+    deathdate: 1846
+    gutenberg_agent_id: '35012'
+    url: http://www.gutenberg.org/2009/agents/35012
+    wikipedia: http://fr.wikipedia.org/wiki/Louis_Ange_Pitou
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2012-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41124'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crime -- France'
+- !lcsh 'Cannibalism'
+- !lcc 'F2351'
+- !lcsh 'French Guiana -- Description and travel'
+- !lcsh 'Exiles -- French Guiana -- Cayenne'
+title: Voyage À  Cayenne, dans les deux Amériques et chez les anthropophages (Vol.
+  2 de 2)
+url: http://www.gutenberg.org/ebooks/41124
